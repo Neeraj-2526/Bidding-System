@@ -7,10 +7,10 @@ Designed a bidding system
 * At the end of the slot duration for a given product, choose the winner and send a communication to them.
 
 Designed the backend system for this problem.
-1. Designed micro-services with 
-  a. Well defined API contracts
-  b. Used protocol - REST
-  c. Well defined status code and messages, error handling.
+1. Designed micro-services with <br/>
+  a. Well defined API contracts <br/>
+  b. Used protocol - REST <br/>
+  c. Well defined status code and messages, error handling. <br/>
 2. Used Java Springboot backend tech, MySQL and MongoDB databases and designed a clean data model, with solid reasoning.
 3. Codebase have good coverage for Unit Tests.
 4. Applied design patterns wherever applicable.
